@@ -6,3 +6,4 @@ solutions to [Advent of Code](https://adventofcode.com/) done in Python 3.7.7. P
 3. [Day 3: Toboggan Trajectory](https://adventofcode.com/2020/day/3)
 4. [Day 4: Passport Processing](https://adventofcode.com/2020/day/4)
 5. [Day 5: Binary Boarding](https://adventofcode.com/2020/day/5)
+6. [Day 6: Custom Customs](https://adventofcode.com/2020/day/6)
